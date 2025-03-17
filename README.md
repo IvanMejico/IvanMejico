@@ -1,1 +1,1 @@
-<a href="https://github.com/ivanwritescode">My Active GitHub account</a>
+<a href="https://github.com/ivanwritescode">My active GitHub account</a>
